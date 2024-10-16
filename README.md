@@ -63,5 +63,7 @@ Gradual decline to a low of around 4.05% in July 2024.
 Repository Structure
 
 notebooks/: Jupyter notebooks with detailed analysis and model outputs.
+
 results/: Forecasts and model performance metrics.
+
 README.md: Overview and detailed information about the project.
